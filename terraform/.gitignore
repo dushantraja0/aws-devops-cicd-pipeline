@@ -1,0 +1,12 @@
+# Terraform directory & state files
+**/terraform/.terraform/
+**/.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+.terraform.lock.hcl
+
+# System & Editor files
+.DS_Store
+Thumbs.db
+.vscode/

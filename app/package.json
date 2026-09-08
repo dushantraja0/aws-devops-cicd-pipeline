@@ -1,0 +1,17 @@
+{
+  "name": "devops-heavy-project-app",
+  "version": "1.0.0",
+  "description": "Task Manager API - demo app for Docker + Terraform + GitHub Actions + AWS pipeline",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --detectOpenHandles"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
