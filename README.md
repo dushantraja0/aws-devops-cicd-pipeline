@@ -1,6 +1,3 @@
-Yahan aapka complete, professional, aur clean `README.md` document hai. Aap ise seedha apni repository mein replace kar sakte hain:
-
-```markdown
 # AWS DevOps CI/CD Pipeline
 
 [![CI/CD Pipeline](https://github.com/dushantraja0/aws-devops-cicd-pipeline/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dushantraja0/aws-devops-cicd-pipeline/actions)
